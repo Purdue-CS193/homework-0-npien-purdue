@@ -26,13 +26,13 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 # **Hi**
-## **I'm Noah**
+# **I'm Noah**
 # Noah's First CS193 Homework
 # Favorite things about CS 193
 - Not much homework
 - taught by fellow students
 - NO EXAMS!!
-- 
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
